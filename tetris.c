@@ -82,7 +82,7 @@ int main() {
         mostrarPilha(pilha, topoPilha);
 
         printf("\nMenu:\n");
-        printf("1 - Jogar peca (dequeue da fila)\n");
+        printf("1 - Jogar peca (Remover da fila)\n");
         printf("2 - Reservar peca (fila -> pilha)\n");
         printf("3 - Usar peca reservada (pop da pilha)\n");
         printf("4 - Trocar frente da fila com topo da pilha\n");
